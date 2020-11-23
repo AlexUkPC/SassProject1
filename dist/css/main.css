@@ -411,6 +411,10 @@
   font-size: 1.5rem;
 }
 
+.contact__list i {
+  margin-right: 10px;
+}
+
 .contact .social-icons {
   position: initial;
   margin-top: 2rem;
